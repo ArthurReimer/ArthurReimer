@@ -1,5 +1,5 @@
-## Projects im working on:
+## Projects I'm working on:
 - RoboCup Rescue Line
-> working on finishing some CAD designs, 3d printing them, software adjustments & some hardware stuff on the side
+> Working on fine-tuning my CAD designs, software adjustments, and some hardware stuff on the side
 - CNN from scratch
-> from scratch in Python with the JIT interpreter numba 
+> From scratch in Python with the JIT compiler Numba
